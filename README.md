@@ -1,16 +1,8 @@
 # algoriza_task_1
 
-A new Flutter project.
+### Just UI Design Task for on boarding screen, sign in and register screens
 
-## Getting Started
+## Application View
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/62621180/176405522-2f529ca7-16d9-458e-8061-7c2957a50fbc.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
